@@ -33,5 +33,4 @@ public class UserResource {
         return ResponseEntity.ok(obj);
     }
 
-
 }
